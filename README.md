@@ -1,6 +1,6 @@
 # pancakeswap-prediction-bot
 ⭐ Website: https://pancakeswap-prediction-bot.live
-![pancakeswap prediction bot]([)](https://pancakeswap-prediction-bot.live/wp-content/uploads/2021/11/Trade-Pancakeswap-Prediction-Bot-.webp)
+![pancakeswap prediction bot](https://pancakeswap-prediction-bot.live/wp-content/uploads/2021/11/Trade-Pancakeswap-Prediction-Bot-.webp)
 Win the Pancakeswap Prediction Game with this Smart and Advanced Bot! Easy and free programmed AI bot for automated betting and winning on the platform pancakeswap prediction 🚀😍💰
 
 bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with Pancakeswap Prediction Bot – trust math, not emotions!
